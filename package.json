@@ -4,7 +4,7 @@
   "description": "Stickies Application",
   "main": "app.js",
   "scripts": {
-    "compile-sass": "node-sass css/main.scss css/main.css",
+    "compile-sass": "node-sass sass/main.scss dist/main.css",
     "start": "node app.js"
   },
   "keywords": [
